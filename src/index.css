@@ -1,4 +1,7 @@
-@import url('https://v1.fontapi.ir/css/Sahel');
+@import url('https://v1.fontapi.ir/css/Lalezar');
+
+
+
 * {
   padding: 0;
   margin: 0;
@@ -8,7 +11,8 @@
 
 body {
   background-color: aquamarine;
-  font-family: Sahel, sans-serif;
+  font-family: Lalezar, sans-serif;
+  font-size: 20px;
 }
 
 .wrapper {
