@@ -1,13 +1,17 @@
+@import url('https://v1.fontapi.ir/css/Sahel');
 * {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
+  
 }
 
 body {
   background-color: aquamarine;
+  font-family: Sahel, sans-serif;
 }
 
 .wrapper {
   background-color: blue;
 }
+
