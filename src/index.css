@@ -17,7 +17,7 @@ body {
 }
 
 .wrapper {
-  background-color: rgb(144, 119, 189);
+  
   min-height: calc(100vh - 56px - 40px);
 }
 
