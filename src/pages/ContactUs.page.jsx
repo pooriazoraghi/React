@@ -3,7 +3,7 @@ import React from "react";
 const ContactUsPage = () => {
     return (
         <div>
-            <h4>تماس با ما</h4>
+            <h5>تماس با ما</h5>
         </div>
     );
 };

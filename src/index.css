@@ -1,4 +1,4 @@
-@import url('https://v1.fontapi.ir/css/Lalezar');
+@import url('https://v1.fontapi.ir/css/ParastooFD');
 
 
 
@@ -11,11 +11,27 @@
 
 body {
   background-color: aquamarine;
-  font-family: Lalezar, sans-serif;
+  font-family: Parastoo FD, sans-serif;
+
   font-size: 20px;
 }
 
 .wrapper {
-  background-color: blue;
+  background-color: rgb(144, 119, 189);
+  min-height: calc(100vh - 56px - 40px);
 }
+
+a {
+  font-family: Parastoo FD, sans-serif;
+
+}
+
+h1,h2,h3,h4,h5,h6 {
+  font-family: Parastoo FD, sans-serif;
+
+}
+
+
+
+
 

@@ -3,7 +3,7 @@ import React from "react";
 const AboutUsPage = () => {
     return (
         <div>
-            <h4>درباره ما</h4>
+            <h5>درباره ما</h5>
         </div>
     );
 };
