@@ -1,6 +1,8 @@
 import React from "react";
 import spinnerImg from "../../assets/images/spinner.gif";
 
+import './Spinner.css';
+
 const Spinner = () => {
   return (
     <div className="d-flex justify-content-center align-items-center">
