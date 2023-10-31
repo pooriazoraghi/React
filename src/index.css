@@ -36,5 +36,21 @@ h5 {
 }
 
 
+.about-img{
+  width: 350px;
+  height: 350px;
+}
+
+.contact-img {
+  width: 350px;
+  height: 350px;
+}
 
 
+.form-label {
+  font-family: Parastoo FD, sans-serif;
+}
+
+button.btn.btn-primary.mb-3 {
+  font-family: Parastoo FD, sans-serif;
+}

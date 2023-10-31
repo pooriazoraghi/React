@@ -3,10 +3,13 @@ import React from "react";
 const FAQPage = () => {
   return (
     <React.Fragment>
-      <div>
-        <h5 className="pt-2">سوالات پر تکرار</h5>
+      <div className="container">
+        <div className="row pt-2">
+          <div className="col-12 bg-secondary p-3 rounded">
+            <h5>سوالات پر تکرار</h5>
+          </div>
+        </div>
       </div>
-      <br />
 
       <div className="container pt-5">
         <div className="accordion" id="accordionExample">
