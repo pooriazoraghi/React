@@ -5,7 +5,7 @@ const FAQPage = () => {
     <React.Fragment>
       <div className="container">
         <div className="row pt-2">
-          <div className="col-12 bg-secondary p-3 rounded">
+          <div className="col-12 bg-info p-3 rounded">
             <h5>سوالات پر تکرار</h5>
           </div>
         </div>
