@@ -108,10 +108,3 @@ const CoinDetailsComponent = ({ coin }) => {
 };
 
 export default CoinDetailsComponent;
-
-//
-//
-//
-//
-
-//
